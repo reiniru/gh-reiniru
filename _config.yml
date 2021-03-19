@@ -11,11 +11,11 @@ baseurl: ''
 lang: en-US
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Europe/Rome
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: API Reiniru                          # the main title
 
 tagline: A text-focused Jekyll theme   # it will display as the sub-title
 
@@ -25,12 +25,12 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'http://api.reiniru.com/'
+url: 'http://api.reiniru.com'
 
 author: your_full_name                  # change to your full name
 
 github:
-  username: github_username             # change to your github username
+  username: reiniru             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -41,7 +41,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/reiniru      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
